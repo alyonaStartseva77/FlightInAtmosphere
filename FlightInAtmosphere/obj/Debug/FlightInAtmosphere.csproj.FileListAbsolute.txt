@@ -1,0 +1,10 @@
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\bin\Debug\FlightInAtmosphere.exe.config
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\bin\Debug\FlightInAtmosphere.exe
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\bin\Debug\FlightInAtmosphere.pdb
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\obj\Debug\FlightInAtmosphere.csprojAssemblyReference.cache
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\obj\Debug\FlightInAtmosphere.Form.resources
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\obj\Debug\FlightInAtmosphere.Properties.Resources.resources
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\obj\Debug\FlightInAtmosphere.csproj.GenerateResource.cache
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\obj\Debug\FlightInAtmosphere.csproj.CoreCompileInputs.cache
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\obj\Debug\FlightInAtmosphere.exe
+C:\Users\Alyona\source\repos\FlightInAtmosphere\FlightInAtmosphere\obj\Debug\FlightInAtmosphere.pdb
